@@ -13,8 +13,8 @@ const capabilities = {
     'platform': 'Windows 10',
     'build': 'Playwright CodeceptJS Sample Build',
     'name': 'Playwright CodeceptJS Test',
-    'user': 'sreenadhb',
-    'accessKey': 'I304plaCpBxpERvH5roJ6vFuWqLf4lokSJv2Bb1JvgIF0pjqbH',
+    'user': 'Your_LT_Username',
+    'accessKey': 'Your_LT_AccessKey',
     'network': true,
     'video': true,
     'console': true
